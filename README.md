@@ -23,7 +23,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C++" height="25" src="[images/cpp.svg](https://camo.githubusercontent.com/81542a02be402ab5f490b0ea7048c3785bda578ef41a72fa06db9cecdcfe2d27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63)"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
