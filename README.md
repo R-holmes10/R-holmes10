@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code>[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritu-verma01/)](https://www.linkedin.com/in/ritu-verma01/)</code>
-</h5>
+
+
+
 <br>
 <p align="center">
   Hey, I'm Ritu Verma, a Full-stack Consultant from India
