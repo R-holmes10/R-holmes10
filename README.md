@@ -3,6 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ritu+Verma;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+  
+ <div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-RituVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritu-verma01/)](https://www.linkedin.com/in/ritu-verma01/)
+</div>
 
 
 
