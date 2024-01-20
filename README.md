@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ritu-verma01/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code>[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritu-verma01/)](https://www.linkedin.com/in/ritu-verma01/)</code>
 </h5>
 <br>
 <p align="center">
