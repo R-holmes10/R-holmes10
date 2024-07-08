@@ -14,10 +14,7 @@
 
 <br>
 <p align="center">
-  Hey, I'm Ritu Verma, a Full-stack Consultant from India
-  <br>
-  <br>
-  📚 I’m currently learning AWS Cloud and DevOps
+  Hey, I'm Ritu Verma, a DevOps Engineer from India
   <br>
   🤝 Looking to collaborate on Cloud Native Projects
   <br>
